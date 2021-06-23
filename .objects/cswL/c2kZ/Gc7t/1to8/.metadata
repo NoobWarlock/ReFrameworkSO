@@ -1,0 +1,13 @@
+﻿{
+  "Id": "1to8VD0ZLES_PTgiR_nwnA",
+  "Reference": "cc-0R_9PGU2KFZCYA4BA7A/1to8VD0ZLES_PTgiR_nwnA",
+  "ParentRef": "cc-0R_9PGU2KFZCYA4BA7A/Gc7t5sXTOkuv70mWA5wg8g",
+  "Name": "Type Into 'Cash In'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-04-26T03:49:01.0451619Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-26T03:49:01.0451619Z"
+}

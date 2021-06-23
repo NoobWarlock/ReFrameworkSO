@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="6pyL-7Jqm0GaaR9Bfr86Eg" DesignTimeRectangle="308, 126, 70, 16" ElementType="Text" FriendlyName="'803476174'" FullSelectorArgument="&lt;ctrl automationid='accountnrlabel' /&gt;&lt;ctrl name='*' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='accountnrlabel' /&gt;&lt;ctrl name='*' role='text' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='uidemo.exe' cls='HwndWrapper*' title='UIDemo' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="c01691a603fe2b91a2bab49aebf533f1.png" xmlns="">0_NrsNTs6Q0iXK9U6dZgGrQ</imageRef>
+</TargetAnchorable>

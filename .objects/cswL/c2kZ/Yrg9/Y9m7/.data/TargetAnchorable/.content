@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="hPJUWenvjEuZnYRbjvlu8Q" DesignTimeRectangle="35, 532, 120, 34" ElementType="Button" FriendlyName="'Exit'" FullSelectorArgument="&lt;ctrl name='Exit' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Exit' role='push button' automationid='' check:text='Exit' /&gt;" ScopeSelectorArgument="&lt;wnd app='uidemo.exe' cls='HwndWrapper*' title='UIDemo' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="82, 538, 25, 21" ElementType="Text" FriendlyName="'Exit'" FullSelectorArgument="&lt;ctrl name='Exit' role='push button' /&gt;&lt;ctrl name='Exit' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Exit' role='push button' /&gt;&lt;ctrl name='Exit' role='text' automationid='' check:text='Exit' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1lWrsSjgQO0SMS5yjEO8TxA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0P-IrS6Z8wEqBxU4cim_wtw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6d406d93bfab05be43acccc4b269de44.png" xmlns="">0B5FVZUL4ckWZPY9HIpE7Zw</imageRef>
+</TargetAnchorable>

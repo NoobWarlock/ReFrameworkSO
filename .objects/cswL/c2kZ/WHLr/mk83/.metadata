@@ -1,0 +1,14 @@
+﻿{
+  "Id": "mk83glphhkOXGZqcqnUK_g",
+  "Reference": "cc-0R_9PGU2KFZCYA4BA7A/mk83glphhkOXGZqcqnUK_g",
+  "ParentRef": "cc-0R_9PGU2KFZCYA4BA7A/WHLr-7k180CfGEefMD3wsw",
+  "Name": "Click 'Log In'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-04-24T22:46:38.0542561Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-24T22:46:38.0542561Z"
+}

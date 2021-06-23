@@ -1,0 +1,14 @@
+﻿{
+  "Id": "Y9m7Ja6d1kSD1MBHzbODMQ",
+  "Reference": "cc-0R_9PGU2KFZCYA4BA7A/Y9m7Ja6d1kSD1MBHzbODMQ",
+  "ParentRef": "cc-0R_9PGU2KFZCYA4BA7A/Yrg9hhDFVkOpqFis3kMDIA",
+  "Name": "Click 'Exit'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-04-26T19:55:27.1790496Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-26T19:55:27.1790496Z"
+}

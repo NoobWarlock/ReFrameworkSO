@@ -1,0 +1,14 @@
+﻿{
+  "Id": "j86MFxYmpkC2v5pLNIq-4g",
+  "Reference": "cc-0R_9PGU2KFZCYA4BA7A/j86MFxYmpkC2v5pLNIq-4g",
+  "ParentRef": "cc-0R_9PGU2KFZCYA4BA7A/WHLr-7k180CfGEefMD3wsw",
+  "Name": "Click 'UiPath'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-04-25T16:08:29.9414682Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-25T16:08:29.9414682Z"
+}

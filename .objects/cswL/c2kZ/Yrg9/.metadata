@@ -1,0 +1,14 @@
+﻿{
+  "Id": "Yrg9hhDFVkOpqFis3kMDIA",
+  "Reference": "cc-0R_9PGU2KFZCYA4BA7A/Yrg9hhDFVkOpqFis3kMDIA",
+  "ParentRef": "cc-0R_9PGU2KFZCYA4BA7A/c2kZQVxL5k2odqStrispzg",
+  "Name": "Use Application UIDemo Close",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2021-04-26T19:55:19.4391982Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-26T19:55:19.4391982Z"
+}

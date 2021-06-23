@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="104, 104, 260, 230" ContentHash="0irxzmYM_kOpGX7srT-0jQ" FilePath="C:\Users\TheTy\OneDrive\Documentos\UiPath\Re-Framework Ui App\ReFramework - UIDemo Application\uidemo.exe" Selector="&lt;wnd app='uidemo.exe' cls='HwndWrapper*' title='UiDemo'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0kGBXwAqoiEu7kL4eN65JgA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="160dd4cc8bee66d1b2fad952ecb0ea62.png" xmlns="">0OIMw3eM3mEyRbiQmFBCOLA</imageRef>
+</TargetApp>

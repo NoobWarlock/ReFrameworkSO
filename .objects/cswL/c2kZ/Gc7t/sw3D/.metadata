@@ -1,0 +1,14 @@
+﻿{
+  "Id": "sw3DsLeiiEO1Heb0xuk9tw",
+  "Reference": "cc-0R_9PGU2KFZCYA4BA7A/sw3DsLeiiEO1Heb0xuk9tw",
+  "ParentRef": "cc-0R_9PGU2KFZCYA4BA7A/Gc7t5sXTOkuv70mWA5wg8g",
+  "Name": "Get Text 'Id Account'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-04-26T15:59:55.7021891Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-26T15:59:55.7021891Z"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "JfuSyuP_50OCF8fIRqnR4Q",
+  "Reference": "cc-0R_9PGU2KFZCYA4BA7A/JfuSyuP_50OCF8fIRqnR4Q",
+  "ParentRef": "cc-0R_9PGU2KFZCYA4BA7A/Gc7t5sXTOkuv70mWA5wg8g",
+  "Name": "Get Text 'id Transaction'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-04-26T15:57:22.6179225Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-26T15:57:22.6179225Z"
+}

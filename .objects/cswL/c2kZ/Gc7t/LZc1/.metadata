@@ -1,0 +1,13 @@
+﻿{
+  "Id": "LZc1-vl6V0GVE2zR0lm5Pg",
+  "Reference": "cc-0R_9PGU2KFZCYA4BA7A/LZc1-vl6V0GVE2zR0lm5Pg",
+  "ParentRef": "cc-0R_9PGU2KFZCYA4BA7A/Gc7t5sXTOkuv70mWA5wg8g",
+  "Name": "Type Into 'On Us Check'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-04-26T03:49:06.363677Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-26T03:49:06.363677Z"
+}
